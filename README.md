@@ -2,9 +2,11 @@
 
 Senior Full-Stack Engineer based in Buenos Aires. I build web apps, AI agents, and developer tools.
 
-➤ [ramirocerda.vercel.app](https://ramirocerda.vercel.app)
-➤ [linkedin.com/in/ramiro-cerdá](https://www.linkedin.com/in/ramiro-cerdá-619983177/)
-➤ rami992009@gmail.com
+- Check out my [portfolio](https://ramirocerda.vercel.app)
+- Connect with me: 
+  - [LinkedIn](https://www.linkedin.com/in/ramiro-cerdá-619983177/)
+  - [X](https://x.com/c__ramiro)
+  - rami992009@gmail.com
 
 ### 🚀 Featured
 
@@ -15,6 +17,6 @@ Senior Full-Stack Engineer based in Buenos Aires. I build web apps, AI agents, a
 - **linkedin-markdownificator** — CLI to export LinkedIn profiles to Markdown/JSON
 - **mini-projects** — Backend patterns lab (Circuit Breaker, sagas, event-driven microservices)
 
-### 🛠
+### 🛠 Tools
 
-TypeScript · Python · React · SvelteKit · FastAPI · Cloudflare Workers · PostgreSQL · Turso · Gemini · LangGraph · Docker
+TypeScript · Python · React · SvelteKit · FastAPI · Cloudflare Workers · PostgreSQL · Turso · Gemini · LangGraph · Docker · Google ADK
