@@ -3,10 +3,7 @@
 Senior Full-Stack Engineer based in Buenos Aires. I build web apps, AI agents, and developer tools.
 
 - Check out my [portfolio](https://ramirocerda.vercel.app)
-- Connect with me: 
-  - [LinkedIn](https://www.linkedin.com/in/ramiro-cerdá-619983177/)
-  - [X](https://x.com/c__ramiro)
-  - rami992009@gmail.com
+- Connect with me: [LinkedIn](https://www.linkedin.com/in/ramiro-cerdá-619983177/) · [X](https://x.com/c__ramiro) · rami992009@gmail.com
 
 ### 🚀 Featured
 
