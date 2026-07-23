@@ -3,7 +3,7 @@
 <p>Senior Full-Stack Engineer based in Buenos Aires. I build web apps, AI agents, and developer tools. AI enthusiast with a builder mindset</p>
 
 ➤ Check out my <a href="https://ramirocerda.vercel.app" target="_blank">portfolio</a><br>
-➤ Connect with me: <a href="https://www.linkedin.com/in/ramiro-cerdá-619983177/" target="_blank">LinkedIn</a> · <a href="https://x.com/c__ramiro" target="_blank">X</a> · <a href="mailto:rami992009@gmail.com">rami992009@gmail.com</a><br>
+➤ Connect with me: <a href="https://www.linkedin.com/in/cerdaramiro/" target="_blank">LinkedIn</a> · <a href="https://x.com/c__ramiro" target="_blank">X</a> · <a href="mailto:rami992009@gmail.com">rami992009@gmail.com</a><br>
 
 <h3>🚀 Featured</h3>
 
