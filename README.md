@@ -17,3 +17,5 @@
 <h3>🛠 Tools</h3>
 
 TypeScript · Python · React · SvelteKit · FastAPI · Cloudflare Workers · PostgreSQL · Turso · Gemini · LangGraph · Docker · Google ADK
+
+> ⚡ **This whole profile (and most of my code) is shipped with <a href="https://opencode.ai/go?ref=TW9S4SF2FB" target="_blank" rel="noreferrer">OpenCode</a>** — the open-source AI coding agent I run every day. Sign up with my link and grab **$5 in free credits** 👉 [opencode.ai](https://opencode.ai/go?ref=TW9S4SF2FB)
