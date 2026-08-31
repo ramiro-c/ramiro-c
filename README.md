@@ -1,21 +1,22 @@
-<h2>Hi, I'm Ramiro 👋</h2>
+# Hi, I'm Ramiro 👋
 
-<p>Senior Full-Stack Engineer based in Buenos Aires. I build web apps, AI agents, and developer tools. AI enthusiast with a builder mindset</p>
+Senior Full-Stack Engineer based in Buenos Aires. I build web apps, AI agents, and developer tools.
 
-➤ Check out my <a href="https://ramirocerda.vercel.app" target="_blank">portfolio</a><br>
-➤ Connect with me: <a href="https://www.linkedin.com/in/cerdaramiro/" target="_blank">LinkedIn</a> · <a href="https://x.com/c__ramiro" target="_blank">X</a> · <a href="mailto:rami992009@gmail.com">rami992009@gmail.com</a><br>
+- [Portfolio](https://ramirocerda.vercel.app)
+- [LinkedIn](https://www.linkedin.com/in/cerdaramiro/) · [X](https://x.com/c__ramiro) · [Email](mailto:rami992009@gmail.com)
 
-<h3>🚀 Featured</h3>
+## Featured
 
-➤ <strong>Mundial 2026</strong> — World Cup companion: groups, fixtures, bracket, venue maps, TV guides<br>
-➤ <strong>AI Agents Hub</strong> — Monorepo with 6+ agents (ADK, LangGraph, FastAPI, React)<br>
-➤ <strong>Gastify</strong> — Finance tracker PWA + Telegram bot with natural language parsing<br>
-➤ <strong>Soccer Analytics Agent</strong> — Gemini-powered LLM tool loop over ~49k matches (pgvector, XGBoost)<br>
-➤ <strong>linkedin-markdownificator</strong> — CLI to export LinkedIn profiles to Markdown/JSON<br>
-➤ <strong>mini-projects</strong> — Backend patterns lab (Circuit Breaker, sagas, event-driven microservices)<br>
+- **LangGraph Orchestrator** — Hierarchical multi-agent supervisor for research (Tavily search, sentiment analysis, auto-written output)
+- **Mundial 2026** — World Cup companion: groups, fixtures, bracket, venue maps, TV guides
+- **AI Agents Hub** — Monorepo with 6+ agents (ADK, LangGraph, FastAPI, React)
+- **Gastify** — Finance tracker PWA + Telegram bot with natural language parsing
+- **Soccer Analytics Agent** — Gemini-powered LLM tool loop over ~49k matches (pgvector, XGBoost)
+- **linkedin-markdownificator** — CLI to export LinkedIn profiles to Markdown/JSON
+- **mini-projects** — Backend patterns lab (Circuit Breaker, sagas, event-driven microservices)
 
-<h3>🛠 Tools</h3>
+## Tools
 
 TypeScript · Python · React · SvelteKit · FastAPI · Cloudflare Workers · PostgreSQL · Turso · Gemini · LangGraph · Docker · Google ADK
 
-> ⚡ **This whole profile (and most of my code) is shipped with <a href="https://opencode.ai/go?ref=TW9S4SF2FB" target="_blank" rel="noreferrer">OpenCode</a>** — the open-source AI coding agent I run every day. Sign up with my link and grab **$5 in free credits** 👉 [opencode.ai](https://opencode.ai/go?ref=TW9S4SF2FB)
+This profile is built with [OpenCode](https://opencode.ai/go?ref=TW9S4SF2FB).
