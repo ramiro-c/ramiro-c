@@ -62,10 +62,14 @@ FORKS=(gitapp warp oracle-ai-developer-hub hermes-expense-tracker engram-feed)
 
 count=0
 for repo in "${EXPERIMENTS[@]}" "${COURSEWORK[@]}" "${LEGACY[@]}" "${FORKS[@]}"; do
-  printf 'gh repo unarchive ramiro-c/%s\n' "$repo"
+  printf 'gh repo unarchive ramiro-c/%s --yes\n' "$repo"
   if [ "$APPLY" -eq 1 ]; then
-    gh repo unarchive "ramiro-c/$repo" >/dev/null
-    printf '  restored\n'
+    if gh repo unarchive "ramiro-c/$repo" --yes >/dev/null 2>&1; then
+      printf '  restored\n'
+    else
+      # Already unarchived (or not archived) -> idempotent no-op, not a failure.
+      printf '  skipped (already active or not archived)\n'
+    fi
   fi
   count=$((count + 1))
 done
