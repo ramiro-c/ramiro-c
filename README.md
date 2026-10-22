@@ -1,22 +1,19 @@
 # Hi, I'm Ramiro 👋
 
-Senior Full-Stack Engineer based in Buenos Aires. I build web apps, AI agents, and developer tools.
+**AI Systems Engineer** based in Buenos Aires. I build LLM agents with verifiable contracts: tool policies, grounding with per-user permissions (RAG), and deterministic evals that gate CI — no LLM judge.
 
-- [Portfolio](https://ramirocerda.vercel.app)
-- [LinkedIn](https://www.linkedin.com/in/cerdaramiro/) · [X](https://x.com/c__ramiro) · [Email](mailto:rami992009@gmail.com)
+- [Portfolio](https://ramirocerda.com.ar) · [LinkedIn](https://www.linkedin.com/in/cerdaramiro/) · [X](https://x.com/c__ramiro) · [Email](mailto:rami992009@gmail.com)
 
-## Featured
+## Flagship work
 
-- **LangGraph Orchestrator** — Hierarchical multi-agent supervisor for research (Tavily search, sentiment analysis, auto-written output)
-- **Mundial 2026** — World Cup companion: groups, fixtures, bracket, venue maps, TV guides
-- **AI Agents Hub** — Monorepo with 6+ agents (ADK, LangGraph, FastAPI, React)
-- **Gastify** — Finance tracker PWA + Telegram bot with natural language parsing
-- **Soccer Analytics Agent** — Gemini-powered LLM tool loop over ~49k matches (pgvector, XGBoost)
-- **linkedin-markdownificator** — CLI to export LinkedIn profiles to Markdown/JSON
-- **mini-projects** — Backend patterns lab (Circuit Breaker, sagas, event-driven microservices)
+| Project | What it does |
+| --- | --- |
+| [agent-evals](https://github.com/ramiro-c/agent-evals) | Golden cases + deterministic graders (tool use, grounding, language); pass-rate threshold with a CI exit code. No LLM in the loop. |
+| [spec-refinery](https://github.com/ramiro-c/spec-refinery) | LangGraph interrogator that turns a vague ticket into an implementable spec, with RAG over company rules. |
+| [rag-citation-agent](https://github.com/ramiro-c/rag-citation-agent) | Retrieval agent that answers only from sources it can cite, filtered by per-user permissions. |
+| [orquestador-langgraph](https://github.com/ramiro-c/orquestador-langgraph) | Hierarchical multi-agent supervisor for research (Tavily, sentiment, auto-written output). |
+| [ai-agents-hub](https://github.com/ramiro-c/ai-agents-hub) | Monorepo with 6+ agents across ADK, LangGraph, FastAPI. |
 
-## Tools
+## Stack
 
-TypeScript · Python · React · SvelteKit · FastAPI · Cloudflare Workers · PostgreSQL · Turso · Gemini · LangGraph · Docker · Google ADK
-
-This profile is built with [OpenCode](https://opencode.ai/go?ref=TW9S4SF2FB).
+TypeScript · Python · React · Svelte · FastAPI · LangGraph · Google ADK · Cloudflare Workers · PostgreSQL · pgvector · Docker
