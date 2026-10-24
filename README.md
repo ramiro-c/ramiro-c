@@ -1,6 +1,6 @@
 # Hi, I'm Ramiro 👋
 
-**AI Systems Engineer** based in Buenos Aires. I build LLM agents with verifiable contracts: tool policies, grounding with per-user permissions (RAG), and deterministic evals that gate CI — no LLM judge.
+**AI Engineer · Full-Stack** based in Buenos Aires. I design and deploy AI agents to production, and build systems with a focus on performance, observability, and quality. Hands-on Tech Lead at LDP.
 
 - [Portfolio](https://ramirocerda.com.ar) · [LinkedIn](https://www.linkedin.com/in/cerdaramiro/) · [X](https://x.com/c__ramiro) · [Email](mailto:rami992009@gmail.com)
 
